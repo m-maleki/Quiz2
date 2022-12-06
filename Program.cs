@@ -78,8 +78,8 @@ var option4Q5 = string.Concat("your age is : ", a.ToString(), " and your height 
 #region Question 6
 // Correct option : 2
 
-int[] numbersQ5 = new int[] { 122, 564, 221, 13, 270, 8 };
-foreach (var number in numbersQ5)
+int[] numbersQ6 = new int[] { 122, 564, 221, 13, 270, 8 };
+foreach (var number in numbersQ6)
 {
     //Even Or Odd method (number)
 }
@@ -94,8 +94,8 @@ var question7 = 35 == 7 * 5 ? "Hello " : "GoodBuy "; // output : "Hello
 #region Question 8
 // Correct option : 3
 
-Array.Sort(numbersQ5); // Sort Array
-Array.Fill(numbersQ5, 6); // 6,6,6,6,6,6
+Array.Sort(numbersQ6); // Sort Array
+Array.Fill(numbersQ6, 6); // 6,6,6,6,6,6
 //Array.Length(numbersQ5); syntax error
 
 #endregion
